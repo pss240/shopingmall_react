@@ -1,0 +1,14 @@
+.div_banner{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    justify-content: end;
+    align-items: center;
+    padding-bottom: 50px;
+
+}
+
+.div_button button{
+    margin: 20px 20px 0px 20px;
+}

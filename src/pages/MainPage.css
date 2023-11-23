@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.div_main{
+    width: 80%;
+}
+
+.div_products{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}

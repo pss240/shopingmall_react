@@ -1,0 +1,22 @@
+.div_product{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 300px;
+    border: 1px solid rgba(0, 0, 0, 0.168);
+    padding: 45px;
+    margin-bottom: 10px;
+}
+
+.img_product{
+    width: 200px;
+    height: 200px;
+}
+
+.div_price{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
